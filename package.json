@@ -89,10 +89,6 @@
     "url": "https://github.com/colsen1991/ngx-translate-extract/issues"
   },
   "homepage": "https://github.com/colsen1991/ngx-translate-extract",
-  "engines": {
-    "node": ">=14"
-  },
-  "config": {},
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   }

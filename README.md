@@ -7,6 +7,10 @@
 Extract translatable (ngx-translate) strings and save as a JSON or Gettext pot file.
 Merges with existing strings if the output file already exists.
 
+## Deprecated
+
+This package has been deprecated in favour of [@vendure/ngx-translate-extract](https://www.npmjs.com/package/@vendure/ngx-translate-extract) ([vendure-ecommerce/ngx-translate-extract](https://github.com/vendure-ecommerce/ngx-translate-extract)).
+
 ## History
 
 This project was originally created by [Kim Biesbjerg](https://github.com/biesbjerg/ngx-translate-extract).

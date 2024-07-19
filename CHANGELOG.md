@@ -1,5 +1,9 @@
 # Changelog
 
+## Deprecated
+
+This package has been deprecated in favour of [@vendure/ngx-translate-extract](https://www.npmjs.com/package/@vendure/ngx-translate-extract) ([vendure-ecommerce/ngx-translate-extract](https://github.com/vendure-ecommerce/ngx-translate-extract)).
+
 ## v8.0.8 (2023-09-01)
 
 - Bumped `@phenomnomnominal/tsquery` to `^6.1.3` due to typescript peer dependency being incompatible with Angular 16+
